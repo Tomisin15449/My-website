@@ -1,0 +1,9 @@
+.row {
+    border: 1px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    padding: 20px;
+    background-color: yellow;
+}
+
